@@ -20,6 +20,6 @@ help understand the robustness and applicability of the approach. In this resear
 
 [1]          Wei Zhang,Gaoliang Peng, Chuanhao Li, Yuanhang Chen and Zhujin Zhang, “[A New Deep Learning Model forFault Diagnosis with Good Anti-Noise and Domain Adaption Ability on RawVibration Signals](http://www.mdpi.com/1424-8220/17/2/425)”, MDPI Sensors, 2017.
 
-[2]          Kishore K.Reddy, Soumalya Sarkar, Vivek Venugopalan, Michael Giering, “[AnomalyDetection and Fault Disambiguation in Large Flight Data: A Multi-modal DeepAuto-encoder Approach](https://www.phmsociety.org/sites/phmsociety.org/files/PHM16_Proceedings.pdf)”, Annual Conference of the Prognostics and HealthManagement Society 2016.
+[2]          Kishore K.Reddy, Soumalya Sarkar, Vivek Venugopalan, Michael Giering, “[AnomalyDetection and Fault Disambiguation in Large Flight Data: A Multi-modal DeepAuto-encoder Approach](http://www.phmsociety.org/sites/phmsociety.org/files/phm_submission/2016/phmc_16_026.pdf)”, Annual Conference of the Prognostics and HealthManagement Society 2016.
 
 [3]          AlirezaMakhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Fray, “[Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)”, 2016

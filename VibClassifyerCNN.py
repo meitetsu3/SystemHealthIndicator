@@ -104,7 +104,7 @@ without learning, 10%.
 checkpointer = ModelCheckpoint(filepath='model.weights.best.hdf5', verbose=1, 
                                save_best_only=True)
 
-hist = model.fit(X_train[:,:,0:CNNch], Y_train, batch_size=32, epochs=10,
+hist = model.fit(X_train[:,:,0:CNNch], Y_train, batch_size=32, epochs=1,
           validation_data=(X_valid[:,:,0:CNNch], Y_valid), callbacks=[checkpointer], 
           verbose=1, shuffle=True)
 
